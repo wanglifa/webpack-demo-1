@@ -1,0 +1,7 @@
+body {
+  background: #ddd;
+}
+body p {
+  font-size: 24px;
+  color: red;
+}
